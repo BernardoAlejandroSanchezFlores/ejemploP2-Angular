@@ -1,0 +1,20 @@
+p{
+    color:blue;
+}
+html, body{height: 100%;}
+body{margin: 0;font-family: Roboto, "Helvetica Neue", sans-serif;}
+
+input{
+    display: block;
+    margin: 5px;
+}
+.col{
+    flex-grow: 1;
+    margin-right: 10px;
+}
+.row{
+    display: flex;
+}
+button{
+    background-color: #3e4144;
+}
